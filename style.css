@@ -1,0 +1,73 @@
+*{
+margin:0;
+padding:0;
+}
+
+.container{
+display:flex;
+}
+
+
+.slidebar{
+background-color:#cfd3ab;
+width:23vw;
+height:100vh;
+}
+
+.slidebar nav{
+padding:20px;
+}
+
+.slidebar nav li{
+list-style:none;
+font-size:13px;
+font-family: 'Bruno Ace SC', cursive;
+padding-top: 70px;
+}
+
+
+.main{
+
+background-color:#514448;
+background-color:black;
+width:78vw;
+}
+
+.info{
+background-color:#f2cb79;
+width:72vw;
+height:31vh;
+margin:165px auto;
+display:flex;
+justify-content: space-around;
+font-family: 'Bruno Ace SC', cursive;
+font-size:14px;
+}
+.pic img{
+width:40vw;
+height:31vh;
+}
+
+.devinfo{
+display:flex;
+flex-direction:column;
+justify-content:center;
+}
+
+.btnhai{
+margin-top:10px;
+}
+.btn{
+width:75px;
+font-size:1px;
+border-radius:30px;
+padding:1px;
+background-color:#fe3d71;
+color:white;
+font-family: 'Bruno Ace SC', cursive;
+margin-top:5px;
+}
+.btn:hover{
+color:#fe3d71;
+background-color:white;
+}
