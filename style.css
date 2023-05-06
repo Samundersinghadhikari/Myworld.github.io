@@ -37,14 +37,14 @@ width:78vw;
 background-color:#f2cb79;
 width:77vw;
 height:31vh;
-margin:160px auto;
+margin:165px auto;
 display:flex;
 justify-content: space-around;
 font-family: 'Bruno Ace SC', cursive;
-font-size:0.8em;
+font-size:14px;
 }
 .pic img{
-width:46vw;
+width:43vw;
 height:31vh;
 }
 
@@ -59,7 +59,7 @@ margin-top:10px;
 }
 .btn{
 width:75px;
-font-size:1px;
+font-size:10px;
 border-radius:30px;
 padding:1px;
 background-color:#fe3d71;
