@@ -35,13 +35,13 @@ width:78vw;
 
 .info{
 background-color:#f2cb79;
-width:72vw;
+width:76vw;
 height:31vh;
 margin:165px auto;
 display:flex;
 justify-content: space-around;
 font-family: 'Bruno Ace SC', cursive;
-font-size:14px;
+font-size:12px;
 }
 .pic img{
 width:40vw;
