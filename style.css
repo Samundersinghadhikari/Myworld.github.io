@@ -5,6 +5,7 @@ padding:0;
 
 .container{
 display:flex;
+height:100vh;
 }
 
 
@@ -58,9 +59,6 @@ justify-content:center;
 margin-top:10px;
 }
 .btn{
-width:50px;
-height:10px;
-font-size:1px;
 border-radius:30px;
 padding:1px;
 background-color:#fe3d71;
